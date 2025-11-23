@@ -37,6 +37,7 @@
 ---
 
 ### 💼 Education  
+
 **B.Tech, Computer Science**  
 KIET Group of Institutions (2024–2028)
 
@@ -45,7 +46,7 @@ KIET Group of Institutions (2024–2028)
 ### 🧰 Languages & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,solidity,rust,react,nextjs,tailwind,postgres,mongodb,ethereum,nodejs,git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,ts,solidity,rust,react,nextjs,tailwind,postgres,mongodb,nodejs,git,github,linux,vscode" />
 </p>
 
 ---
@@ -57,19 +58,17 @@ KIET Group of Institutions (2024–2028)
 | **Momentum** | A decentralized social prediction protocol on the HeLa blockchain enabling staking, prediction contests & reward sharing based on collective intelligence. | 🔗 https://momentum-ten-inky.vercel.app |
 | **YuktiManthan** | An AI-driven job intelligence platform for resume analysis, candidate-role matching, and smart recommendations. | 🔗 https://github.com/satvik-svg/YuktiManthan |
 | **Nomos** | A decentralized creator economy platform using AI-powered agent negotiation for premium content access on Hedera. | 🔗 https://nomos-six.vercel.app |
-| **BurgerBrows** | Dual-platform DeFi demo (PyQt desktop + Next.js web) with secure device wallets, Sepolia USDC operations, real-time balances & isolated storage. | 🔗 *(Coming soon)* |
 
 ---
 
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satvik-svg&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satvik-svg&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=satvik-svg&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satvik-svg&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satvik-svg&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 ---
