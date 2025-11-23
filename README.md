@@ -58,6 +58,7 @@ KIET Group of Institutions (2024–2028)
 | **Momentum** | A decentralized social prediction protocol on the HeLa blockchain enabling staking, prediction contests & reward sharing based on collective intelligence. | 🔗 https://momentum-ten-inky.vercel.app |
 | **YuktiManthan** | An AI-driven job intelligence platform for resume analysis, candidate-role matching, and smart recommendations. | 🔗 https://github.com/satvik-svg/YuktiManthan |
 | **Nomos** | A decentralized creator economy platform using AI-powered agent negotiation for premium content access on Hedera. | 🔗 https://nomos-six.vercel.app |
+| **VaultX** | A secure digital vault for managing tokenized assets with smooth on-chain interactions and a user-friendly dApp interface. | 🔗 https://vault-x-tawny.vercel.app |
 
 ---
 
