@@ -12,11 +12,11 @@
 
 ### 🧠 About Me  
 
-- 🔗 Driven **Web3 builder** with hands-on experience in **Ethereum, Layer-2 networks, smart contracts & decentralized architectures**
+- 🔗 Driven **Web3 builder** specializing in **Ethereum, Layer-2s, smart contracts & decentralized architectures**
 - 🌱 Currently exploring **Rust**, **advanced Solidity patterns**, and **modular chain design**
-- 🧩 Building **real-world decentralized platforms** using modern frameworks
+- 🧩 Building **real-world decentralized platforms** with modern frameworks
 - 📫 Reach me at: **satvik764@gmail.com**
-- 🎯 Career Goal: Contribute to next-gen decentralized applications and open-source blockchain innovation
+- 🎯 Career Goal: Build next-gen decentralized applications and contribute to open-source blockchain innovation
 
 ---
 
@@ -55,36 +55,37 @@ KIET Group of Institutions (2024–2028)
 
 | Project | Description | Live Link / Repo |
 |--------|-------------|------------------|
-| **Momentum** | A decentralized social prediction protocol on the HeLa blockchain enabling staking, prediction contests & reward sharing based on collective intelligence. | 🔗 https://momentum-ten-inky.vercel.app |
-| **YuktiManthan** | An AI-driven job intelligence platform for resume analysis, candidate-role matching, and smart recommendations. | 🔗 https://github.com/satvik-svg/YuktiManthan |
-| **Nomos** | A decentralized creator economy platform using AI-powered agent negotiation for premium content access on Hedera. | 🔗 https://nomos-six.vercel.app |
-| **VaultX** | A secure digital vault for managing tokenized assets with smooth on-chain interactions and a user-friendly dApp interface. | 🔗 https://vault-x-tawny.vercel.app |
+| **Momentum** | A decentralized prediction protocol on the HeLa blockchain with staking, contests & reward sharing. | 🔗 https://momentum-ten-inky.vercel.app |
+| **YuktiManthan** | AI-powered job intelligence platform for resume analysis & smart recommendations. | 🔗 https://github.com/satvik-svg/YuktiManthan |
+| **Nomos** | A decentralized creator economy platform using AI-agent negotiation on Hedera. | 🔗 https://nomos-six.vercel.app |
+| **VaultX** | A secure digital vault for managing tokenized assets with smooth on-chain interactions. | 🔗 https://vault-x-tawny.vercel.app |
 
 ---
 
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img
-    src="https://github-readme-stats-satvik-svg.vercel.app/api?username=satvik-svg&show_icons=true&theme=tokyonight&hide_border=true"
-    height="170"
-  />
+
+  <!-- Total Stars -->
+  <img src="https://img.shields.io/github/stars/satvik-svg?label=Total%20Stars&style=for-the-badge&color=blue" />
+
+  <!-- Followers -->
+  <img src="https://img.shields.io/github/followers/satvik-svg?label=Followers&style=for-the-badge&color=brightgreen" />
+
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats-satvik-svg.vercel.app/api/top-langs/?username=satvik-svg&layout=compact&theme=tokyonight&hide_border=true"
-    height="170"
-  />
+  <!-- Profile Summary Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satvik-svg&theme=tokyonight" />
 </p>
 
 ---
 
 ### 🏆 Additional Highlights  
 
-- 🎤 Served as a **coordinator** for the HeLa Chain event at KIET  
-- 🧩 Guided students on **blockchain fundamentals**, HeLa network usage & real-world applications  
-- 🌐 Passionate about **open-source**, decentralized identity, and next-gen Web3 infrastructures  
+- 🎤 Coordinated the **HeLa Chain event** at KIET  
+- 🧩 Guided students on **blockchain fundamentals & HeLa usage**  
+- 🌐 Passionate about **open-source**, decentralized identity & Web3 infra  
 
 ---
 
