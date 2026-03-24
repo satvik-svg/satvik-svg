@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Satvik Srivastava</h1>
-<h3 align="center">🚀 Web3 & Blockchain Developer | Ethereum • L2s • Decentralized Systems</h3>
+<h3 align="center"> Web3 & Blockchain Developer | Ethereum • L2s • Decentralized Systems</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=satvik-svg&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -10,17 +10,17 @@
 
 ---
 
-### 🧠 About Me  
+###  About Me  
 
-- 🔗 Driven **Web3 builder** specializing in **Ethereum, Layer-2s, smart contracts & decentralized architectures**
-- 🌱 Currently exploring **Rust**, **advanced Solidity patterns**, and **modular chain design**
-- 🧩 Building **real-world decentralized platforms** with modern frameworks
-- 📫 Reach me at: **satvik764@gmail.com**
-- 🎯 Career Goal: Build next-gen decentralized applications and contribute to open-source blockchain innovation
+-  Driven **Web3 builder** specializing in **Ethereum, Layer-2s, smart contracts & decentralized architectures**
+-  Currently exploring **Rust**, **advanced Solidity patterns**, and **modular chain design**
+-  Building **real-world decentralized platforms** with modern frameworks
+-  Reach me at: **satvik764@gmail.com**
+-  Career Goal: Build next-gen decentralized applications and contribute to open-source blockchain innovation
 
 ---
 
-### 🌐 Connect With Me  
+###  Connect With Me  
 
 <p align="left">
   <a href="https://x.com/SatvikSriv29052" target="_blank">
@@ -36,14 +36,14 @@
 
 ---
 
-### 💼 Education  
+###  Education  
 
 **B.Tech, Computer Science**  
 KIET Group of Institutions (2024–2028)
 
 ---
 
-### 🧰 Languages & Tools  
+###  Languages & Tools  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,solidity,rust,react,nextjs,tailwind,postgres,mongodb,nodejs,git,github,linux,vscode" />
@@ -51,7 +51,7 @@ KIET Group of Institutions (2024–2028)
 
 ---
 
-### 🚀 Featured Projects  
+###  Featured Projects  
 
 | Project | Description | Live Link / Repo |
 |--------|-------------|------------------|
@@ -62,7 +62,7 @@ KIET Group of Institutions (2024–2028)
 
 ---
 
-### 📊 GitHub Stats  
+###  GitHub Stats  
 
 <p align="center">
 
@@ -81,12 +81,12 @@ KIET Group of Institutions (2024–2028)
 
 ---
 
-### 🏆 Additional Highlights  
+###  Additional Highlights  
 
-- 🎤 Coordinated the **HeLa Chain event** at KIET  
-- 🧩 Guided students on **blockchain fundamentals & HeLa usage**  
-- 🌐 Passionate about **open-source**, decentralized identity & Web3 infra  
+-  Coordinated the **HeLa Chain event** at KIET  
+-  Guided students on **blockchain fundamentals & HeLa usage**  
+-  Passionate about **open-source**, decentralized identity & Web3 infra  
 
 ---
 
-<h3 align="center">✨ Building decentralized systems that empower the open internet.</h3>
+<h3 align="center"> Building decentralized systems that empower the open internet.</h3>
