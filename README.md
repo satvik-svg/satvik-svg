@@ -62,25 +62,6 @@ KIET Group of Institutions (2024–2028)
 
 ---
 
-###  GitHub Stats  
-
-<p align="center">
-
-  <!-- Total Stars -->
-  <img src="https://img.shields.io/github/stars/satvik-svg?label=Total%20Stars&style=for-the-badge&color=blue" />
-
-  <!-- Followers -->
-  <img src="https://img.shields.io/github/followers/satvik-svg?label=Followers&style=for-the-badge&color=brightgreen" />
-
-</p>
-
-<p align="center">
-  <!-- Profile Summary Card -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satvik-svg&theme=tokyonight" />
-</p>
-
----
-
 ###  Additional Highlights  
 
 -  Coordinated the **HeLa Chain event** at KIET  
