@@ -87,11 +87,11 @@ KIET Group of Institutions (2024–2028)
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satvik-svg&show_icons=true&theme=tokyonight&cache_seconds=1800&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=satvik-svg&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satvik-svg&layout=compact&theme=tokyonight&cache_seconds=1800&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=satvik-svg&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
