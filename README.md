@@ -17,7 +17,7 @@ Hi! I'm **Satvik Srivastava** — a passionate **Full Stack, Web3 & DevOps devel
 - 🔗 Specializing in **Ethereum, Layer-2s, smart contracts & decentralized architectures**
 - 🌐 Building **full-stack applications** with modern frameworks and clean system design
 - ⚙️ Exploring **Rust**, **advanced Solidity patterns**, **modular chain design**, and **cloud infrastructure**
-- 📬 Reach me at: **<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="ea998b9e9c8381dddcdeaa8d878b8386c4898587">[email&#160;protected]</a>**
+- 📬 Reach me at: **[satvik764@gmail.com](mailto:satvik764@gmail.com)**
 - 🎯 Career Goal: Build next-gen decentralized applications and contribute to open-source blockchain innovation
 
 ---
@@ -26,7 +26,7 @@ Hi! I'm **Satvik Srivastava** — a passionate **Full Stack, Web3 & DevOps devel
 
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SatvikSriv29052)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satvik-srivastava-58083a322/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="b1c2d0c5c7d8da868785f1d6dcd0d8dd9fd2dedc">[email&#160;protected]</a>)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satvik764@gmail.com)
 
 ---
 
@@ -101,10 +101,3 @@ KIET Group of Institutions (2024–2028)
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=satvik-svg&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </p>
-
----
-
-## 🌟 Additional Highlights
-
-- 🎙️ Coordinated the **HeLa Chain event** at KIET
-- 🧑‍🏫 Guided studen
