@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Satvik Srivastava</h1>
-<h3 align="center">Full Stack & Web3 Developer | Ethereum • L2s • Decentralized Systems • DevOps</h3>
+<h3 align="center">Full Stack & DevOps Developer | Web3 & Decentralized Systems</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=satvik-svg&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -12,13 +12,13 @@
 
 ## 🧩 About Me
 
-Hi! I'm **Satvik Srivastava** — a passionate **Full Stack, Web3 & DevOps developer** who loves building real-world decentralized systems and scalable web platforms.
+Hi! I'm **Satvik Srivastava** — a passionate **Full Stack & DevOps Developer** with a strong focus on building scalable web architecture, automated cloud infrastructure, and decentralized systems.
 
-- 🔗 Specializing in **Ethereum, Layer-2s, smart contracts & decentralized architectures**
-- 🌐 Building **full-stack applications** with modern frameworks and clean system design
-- ⚙️ Exploring **Rust**, **advanced Solidity patterns**, **modular chain design**, and **cloud infrastructure**
+- 🌐 Designing and deploying scalable **Full Stack Applications** using modern web frameworks
+- ⚙️ Architecting robust **CI/CD pipelines, container orchestration, and cloud infrastructure (AWS/GCP)**
+- 🔗 Developing decentralized platforms, smart contracts, and AI-agent protocols on **Ethereum & Layer-2s**
 - 📬 Reach me at: **[satvik764@gmail.com](mailto:satvik764@gmail.com)**
-- 🎯 Career Goal: Build next-gen decentralized applications and contribute to open-source blockchain innovation
+- 🎯 Career Goal: Build high-performance, resilient systems at the intersection of DevOps, Web2, and Web3
 
 ---
 
@@ -59,10 +59,18 @@ KIET Group of Institutions (2024–2028)
 ### ⚙️ DevOps & Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![AWS ECS](https://img.shields.io/badge/AWS_ECS-232F3E?style=for-the-badge&logo=amazonecs&logoColor=white)
+![AWS ECR](https://img.shields.io/badge/AWS_ECR-232F3E?style=for-the-badge&logo=amazonecr&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+- 🚀 **Orchestration & Containers**: Containerizing applications with Docker, orchestrating with Kubernetes, and managing deployment strategies.
+- 🛡️ **CI/CD & Code Quality**: Building workflows with GitHub Actions and enforcing code quality through SonarQube.
+- ☁️ **Cloud Services**: Configuring AWS (ECS, ECR, Auto Scaling Groups) and GCP infrastructure for high-availability and scale.
+- 🔀 **Web Servers**: Configuring Nginx as a reverse proxy, load balancer, and secure web server.
 
 ### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -78,8 +86,8 @@ KIET Group of Institutions (2024–2028)
 |--------|-------------|------|
 | **Karya** | Scalable full-stack project management platform with Kanban workflows, team collaboration, and analytics dashboards. Integrated Google Calendar and a personalized dashboard for tracking tasks and ideas. | 🔗 [anant-ivory.vercel.app](https://anant-ivory.vercel.app) |
 | **Momentum** | Decentralized prediction protocol on the HeLa blockchain with staking, contests & reward sharing. | 🔗 [momentum-ten-inky.vercel.app](https://momentum-ten-inky.vercel.app) |
-| **Nomos** | Decentralized creator economy platform using AI-agent negotiation on Hedera. | 🔗 [nomos-six.vercel.app](https://nomos-six.vercel.app) |
-| **VaultX** | Secure digital vault for managing tokenized assets with smooth on-chain interactions. | 🔗 [vault-x-tawny.vercel.app](https://vault-x-tawny.vercel.app) |
+| **NFTOPIA** | AI Agent NFT Utility Platform on Hela Chain. Mint autonomous AI agents as NFTs, deploy them for content generation or algorithmic trading, and trade their outputs through a marketplace. Built using ERC-6551 token-bound accounts. | 🔗 [nftopia-tau.vercel.app](https://nftopia-tau.vercel.app/) <br> 🛠️ [GitHub](https://github.com/satvik-svg/NFTOPIA) |
+| **HedgeFlow** | Trustless correlation-arbitrage agent that monitors multi-asset correlation dislocations, leverages LLM for market-neutral decisions, submits signed intents, posts validation attestations, and runs local telemetry. | 🔗 [hedge-flow-six.vercel.app](https://hedge-flow-six.vercel.app/) <br> 🛠️ [GitHub](https://github.com/satvik-svg/HedgeFlow) |
 | **YuktiManthan** | AI-powered job intelligence platform for resume analysis & smart recommendations. | 🔗 [GitHub](https://github.com/satvik-svg/YuktiManthan) |
 
 ---
