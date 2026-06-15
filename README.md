@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Satvik Srivastava</h1>
+<h1 align="center">Hi, I'm Satvik Srivastava</h1>
 <h3 align="center">Full Stack & DevOps Developer | Web3 & Decentralized Systems</h3>
 
 <p align="center">
@@ -10,19 +10,19 @@
 
 ---
 
-## 🧩 About Me
+## About Me
 
 Hi! I'm **Satvik Srivastava** — a passionate **Full Stack & DevOps Developer** with a strong focus on building scalable web architecture, automated cloud infrastructure, and decentralized systems.
 
-- 🌐 Designing and deploying scalable **Full Stack Applications** using modern web frameworks
-- ⚙️ Architecting robust **CI/CD pipelines, container orchestration, and cloud infrastructure (AWS/GCP)**
-- 🔗 Developing decentralized platforms, smart contracts, and AI-agent protocols on **Ethereum & Layer-2s**
-- 📬 Reach me at: **[satvik764@gmail.com](mailto:satvik764@gmail.com)**
-- 🎯 Career Goal: Build high-performance, resilient systems at the intersection of DevOps, Web2, and Web3
+- Designing and deploying scalable **Full Stack Applications** using modern web frameworks
+- Architecting robust **CI/CD pipelines, container orchestration, and cloud infrastructure (AWS/GCP)**
+- Developing decentralized platforms, smart contracts, and AI-agent protocols on **Ethereum & Layer-2s**
+- Reach me at: **[satvik764@gmail.com](mailto:satvik764@gmail.com)**
+- Career Goal: Build high-performance, resilient systems at the intersection of DevOps, Web2, and Web3
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SatvikSriv29052)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satvik-srivastava-58083a322/)
@@ -30,16 +30,16 @@ Hi! I'm **Satvik Srivastava** — a passionate **Full Stack & DevOps Developer**
 
 ---
 
-## 🎓 Education
+## Education
 
 **B.Tech, Computer Science**
 KIET Group of Institutions (2024–2028)
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
-### 🌐 Full Stack Development
+### Full Stack Development
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=f7df1e)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -48,15 +48,16 @@ KIET Group of Institutions (2024–2028)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### 🔗 Blockchain & Web3
+### Blockchain & Web3
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
 ![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
 
-### ⚙️ DevOps & Infrastructure
+### DevOps & Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -67,12 +68,12 @@ KIET Group of Institutions (2024–2028)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-- 🚀 **Orchestration & Containers**: Containerizing applications with Docker, orchestrating with Kubernetes, and managing deployment strategies.
-- 🛡️ **CI/CD & Code Quality**: Building workflows with GitHub Actions and enforcing code quality through SonarQube.
-- ☁️ **Cloud Services**: Configuring AWS (ECS, ECR, Auto Scaling Groups) and GCP infrastructure for high-availability and scale.
-- 🔀 **Web Servers**: Configuring Nginx as a reverse proxy, load balancer, and secure web server.
+- **Orchestration & Containers**: Containerizing applications with Docker, orchestrating with Kubernetes, and managing deployment strategies.
+- **CI/CD & Code Quality**: Building workflows with GitHub Actions and enforcing code quality through SonarQube.
+- **Cloud Services**: Configuring AWS (ECS, ECR, Auto Scaling Groups) and GCP infrastructure for high-availability and scale.
+- **Web Servers**: Configuring Nginx as a reverse proxy, load balancer, and secure web server.
 
-### 🛠️ Tools & Platforms
+### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -80,19 +81,19 @@ KIET Group of Institutions (2024–2028)
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Link |
 |--------|-------------|------|
-| **Karya** | Scalable full-stack project management platform with Kanban workflows, team collaboration, and analytics dashboards. Integrated Google Calendar and a personalized dashboard for tracking tasks and ideas. | 🔗 [anant-ivory.vercel.app](https://anant-ivory.vercel.app) |
-| **Momentum** | Decentralized prediction protocol on the HeLa blockchain with staking, contests & reward sharing. | 🔗 [momentum-ten-inky.vercel.app](https://momentum-ten-inky.vercel.app) |
-| **NFTOPIA** | AI Agent NFT Utility Platform on Hela Chain. Mint autonomous AI agents as NFTs, deploy them for content generation or algorithmic trading, and trade their outputs through a marketplace. Built using ERC-6551 token-bound accounts. | 🔗 [nftopia-tau.vercel.app](https://nftopia-tau.vercel.app/) <br> 🛠️ [GitHub](https://github.com/satvik-svg/NFTOPIA) |
-| **HedgeFlow** | Trustless correlation-arbitrage agent that monitors multi-asset correlation dislocations, leverages LLM for market-neutral decisions, submits signed intents, posts validation attestations, and runs local telemetry. | 🔗 [hedge-flow-six.vercel.app](https://hedge-flow-six.vercel.app/) <br> 🛠️ [GitHub](https://github.com/satvik-svg/HedgeFlow) |
-| **YuktiManthan** | AI-powered job intelligence platform for resume analysis & smart recommendations. | 🔗 [GitHub](https://github.com/satvik-svg/YuktiManthan) |
+| **Karya** | Scalable project management platform featuring Kanban workflows, collaborative workspaces, and Google Calendar integration. | [Demo](https://anant-ivory.vercel.app) |
+| **Momentum** | Decentralized prediction protocol on the HeLa blockchain with staking, contests, and reward-sharing mechanism. | [Demo](https://momentum-ten-inky.vercel.app) |
+| **NFTOPIA** | AI Agent NFT Utility Platform on Hela Chain using ERC-6551 token-bound accounts for autonomous generation and trading. | [Demo](https://nftopia-tau.vercel.app/) • [GitHub](https://github.com/satvik-svg/NFTOPIA) |
+| **HedgeFlow** | Trustless correlation-arbitrage agent monitoring multi-asset dislocations to execute market-neutral decisions. | [Demo](https://hedge-flow-six.vercel.app/) • [GitHub](https://github.com/satvik-svg/HedgeFlow) |
+| **YuktiManthan** | AI-powered job intelligence platform utilizing resume analysis and smart career recommendations. | [GitHub](https://github.com/satvik-svg/YuktiManthan) |
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=satvik-svg&theme=tokyonight" alt="GitHub Stats" />
