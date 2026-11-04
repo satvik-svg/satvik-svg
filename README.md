@@ -4,7 +4,3 @@
   Full-stack engineer at M-World.<br/>
   Building production web, AI, and blockchain systems.
 </p>
-
-<p align="center">
-  B.Tech CSE, KIET · 2024–2028
-</p>
