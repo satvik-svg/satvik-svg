@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="84" height="36" viewBox="0 0 84 36" fill="none" role="img" aria-label="x">
+  <rect x="0.5" y="0.5" width="83" height="35" rx="8" fill="#141414" stroke="#52525b"/>
+  <g fill="#c4c4c8" transform="translate(14.5 11) scale(0.52)">
+    <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-4.714-6.231-5.401 6.231H2.747l7.73-8.835L1.254 2.25H8.08l4.713 6.231z"/>
+  </g>
+  <text x="36" y="23" fill="#e4e4e7" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="12">x</text>
+</svg>
